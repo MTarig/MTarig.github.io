@@ -5,14 +5,14 @@ Imagine tornar uma ideia num grande potencial?
 Mesmo que essa ideia não esteja em pratica, somente você é possuidor 
 pois conhece seu negócio como ninguém.
 
-Mas com transforma-lo em um projeto estrutura-do na web.
+Mas como transforma-lo em um projeto estruturado na web.
 
 Existe uma solução que pode torna-lo real, que é...
 
 <h2>| Front-End | Transforme ideias em realidade visual | 
   Desenvolvimento web e visual / Html/CSS/JS |</h2>
 
-Meu trabalho é transformar seu conhecimento em algo concreto, mas um produto gera sucesso atravez de sua imagem também!
+Meu trabalho é transformar seu conhecimento em algo concreto, mas um produto gera sucesso atravéz de sua imagem também!
 
 (Tamplates de front dos sites feitos por mim)
 
@@ -24,15 +24,15 @@ Meu trabalho é transformar seu conhecimento em algo concreto, mas um produto ge
 
 <h3>Soluções incluidas no meu trabalho - Front-End </h3>
 - Desenvolvimento de interfaces gráficas
-- Implementação de design resposivo
+- Implementação de design responsivo
 - Animações e efeitos visuais
 - Colaboração com designers
 
 <h2>| Back-End | Organizar ideias para o lucro do negocio
   | Desenvolvimento C# / SQL Server |</h2>
 
-Com meu trabalho posso transformar sua demanda em algo concreto, atravez de programação e seu conhecimento.
-Mas para isto poupe tempo e energia deixando todo o trabalho pesado para um profissional, que trará mais credibilidade 
+Com meu trabalho posso transformar sua demanda em algo concreto, atravéz de programação e seu conhecimento.
+Mas para isto, poupe tempo e energia deixando todo o trabalho pesado para um profissional, que trará mais credibilidade 
 para sua marca.
 
 <h3>NÃO PERCA TEMPO! ME CHAME E VAMOS IMPULSIONAR SEU NEGÓCIO!</h3>
@@ -63,20 +63,20 @@ para sua marca.
 
 Em minha vida pessoal, sou tranquilo, esforçado e resiliente.
 
-Em minha vida profissional sou resiliente contra os problemas e empatico aos colegas de trabalho, busco ser o melhor no que faço.
+Em minha vida profissional, sou resiliente contra os problemas e empático aos colegas de trabalho, busco ser o melhor no que faço.
 
 Iniciei meus estudos em analise e desenvolvimento de sistemas na Universidade de Caxias do Sul no ano 2022, para complementar alguns cursos já completos por mim são:
 - 2020 Curso SQL DevAprender Udemy
 - 2024 C Programming Bootcamp Udemy
-- Curso de introdução a agilidade: scrum + kanban Udemy
+- Curso de introdução à agilidade: scrum + kanban Udemy
 - Introdução ao Hacking e Pentest 2.0 Solyd
 - Microsoft Learn C# Completo
 
 Me dedico e me esforço para ser um profissional focado e agregar valor. Atuo como Desenvolvedor FullStack. Possuo conhecimento em C#,SQL Server,HTML,CSS,JavaScript,Python,API Rest,GeneXus.
 
-<h3>Unica coisa impossivel é que não tentamos fazer</h3>
+<h3>Única coisa impossível é que não tentarmos fazer.</h3>
 
-<h2>Experiencias</h2>
+<h2>Expêriencias</h2>
 
 Estagio de desenvolvimento de software |AGO/2023|JAN/2024
 Programador Freelancer |MAR/2022|Até agora
