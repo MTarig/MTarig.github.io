@@ -22,7 +22,7 @@ Meu trabalho é transformar seu conhecimento em algo concreto, mas um produto ge
 
 ![Captura de Tela (58)](https://github.com/MTarig/MTarig.github.io/assets/88636741/7055faa4-2f72-4a03-a9a9-0a48a59793da)
 
-<h3>Soluções incluidas no meu trabalho </h3>
+<h3>Soluções incluidas no meu trabalho - Front-End </h3>
 - Desenvolvimento de interfaces gráficas
 - Implementação de design resposivo
 - Animações e efeitos visuais
@@ -37,7 +37,7 @@ para sua marca.
 
 <h3>NÃO PERCA TEMPO! ME CHAME E VAMOS IMPULSIONAR SEU NEGÓCIO!</h3>
 
-<h3>Soluções incluidas no meu trabalho </h3>
+<h3>Soluções incluidas no meu trabalho Back-End </h3>
 - Atualizações e Manutenção
 - Integração de banco de dados com o back-end
 - Desenvolvimento de elementos interativos
