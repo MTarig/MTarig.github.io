@@ -56,6 +56,11 @@ para sua marca.
 ![image](https://github.com/MTarig/MTarig.github.io/assets/88636741/cc1647f6-be4f-4342-9bbe-220a4c202e22)
 
 (Imagens do banco de dados do sistema hospitalar)
+
+![image](https://github.com/MTarig/MTarig.github.io/assets/88636741/2902b720-663e-460a-b902-f1b9088ca669)
+
+![image](https://github.com/MTarig/MTarig.github.io/assets/88636741/59c74734-dd5d-4274-bb78-85b1f4dcd8e3)
+
 (Imagens do projeto de inteligencia artificial)
 (Imagens do projeto de jogos)
 
