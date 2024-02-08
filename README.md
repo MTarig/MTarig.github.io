@@ -10,7 +10,7 @@ Mas com transforma-lo em um projeto estrutura-do na web.
 Existe uma solução que pode torna-lo real, que é...
 
 <h2>| Front-End | Transforme ideias em realidade visual | 
-  |Desenvolvimento web e visual / Html/CSS/JS |</h2>
+  Desenvolvimento web e visual / Html/CSS/JS |</h2>
 
 Meu trabalho é transformar seu conhecimento em algo concreto, mas um produto gera sucesso atravez de sua imagem também!
 
