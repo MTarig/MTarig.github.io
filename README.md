@@ -37,14 +37,27 @@ para sua marca.
 
 <h3>NÃO PERCA TEMPO! ME CHAME E VAMOS IMPULSIONAR SEU NEGÓCIO!</h3>
 
-<h3>Soluções incluidas no meu trabalho Back-End </h3>
+<h3>Soluções incluidas no meu trabalho - Back-End </h3>
 - Atualizações e Manutenção
 - Integração de banco de dados com o back-end
 - Desenvolvimento de elementos interativos
 - Desenvolvimento de todos os aspectos de sistemas
 - Integração de apis e frameworks
 
+(Imagems de um sistema de agendamento para PetShop criado por mim)
+![image](https://github.com/MTarig/MTarig.github.io/assets/88636741/f0a2e6a4-33bb-43db-a8b8-0e01be2b2cf9)
 
+![image](https://github.com/MTarig/MTarig.github.io/assets/88636741/660bb617-2b4f-41cc-8737-33a36d00e37a)
+
+(Link para projeto fullstack de uma radio criado por mim: https://www.radiowebfarroupilha.com.br/ )
+
+(Imagem da radio abaixo)
+
+![image](https://github.com/MTarig/MTarig.github.io/assets/88636741/cc1647f6-be4f-4342-9bbe-220a4c202e22)
+
+(Imagens do banco de dados do sistema hospitalar)
+(Imagens do projeto de inteligencia artificial)
+(Imagens do projeto de jogos)
 
 <h2>Informações de contato</h2>
 
