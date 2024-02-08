@@ -59,7 +59,19 @@ para sua marca.
 (Imagens do projeto de inteligencia artificial)
 (Imagens do projeto de jogos)
 
-<h2>Informações de contato</h2>
+<h2>Muito prazer, sou Maximiliano Tarigo</h2>
+![MeuCurriculo](https://github.com/MTarig/MTarig.github.io/assets/88636741/a2cdecce-7159-4f17-9fec-f2031fedd449)
+
+Em minha vida pessoal, sou tranquilo, esforçado e resiliente.
+
+Em minha vida profissional sou resiliente contra os problemas e empatico aos colegas de trabalho, busco ser o melhor no que faço.
+
+Iniciei meus estudos em analise e desenvolvimento de sistemas na Universidade de Caxias do Sul no ano 2022, para complementar alguns cursos já completos por mim são:
+- 2020 Curso SQL DevAprender Udemy
+- 2024 C Programming Bootcamp Udemy
+- Curso de introdução a agilidade: scrum + kanban Udemy
+- Introdução ao Hacking e Pentest 2.0 Solyd
+- Microsoft Learn C# Completo
 
 <h2>Resumo de experiencias</h2>
 
