@@ -60,7 +60,6 @@ para sua marca.
 (Imagens do projeto de jogos)
 
 <h2>Muito prazer, sou Maximiliano Tarigo</h2>
-![MeuCurriculo](https://github.com/MTarig/MTarig.github.io/assets/88636741/a2cdecce-7159-4f17-9fec-f2031fedd449)
 
 Em minha vida pessoal, sou tranquilo, esforçado e resiliente.
 
@@ -73,6 +72,13 @@ Iniciei meus estudos em analise e desenvolvimento de sistemas na Universidade de
 - Introdução ao Hacking e Pentest 2.0 Solyd
 - Microsoft Learn C# Completo
 
-<h2>Resumo de experiencias</h2>
+Me dedico e me esforço para ser um profissional focado e agregar valor. Atuo como Desenvolvedor FullStack. Possuo conhecimento em C#,SQL Server,HTML,CSS,JavaScript,Python,API Rest,GeneXus.
 
-<h2>Projetos</h2>
+<h3>Unica coisa impossivel é que não tentamos fazer</h3>
+
+<h2>Experiencias</h2>
+
+Estagio de desenvolvimento de software AGO/2023|JAN/2024
+Programador Freelancer MAR/2022|Até agora
+
+<h2>Alguns projetos concluidos</h2>
