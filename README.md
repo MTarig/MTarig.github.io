@@ -1,4 +1,4 @@
-#| Desenvolvedor .NET | C# | FullStack |
+| Desenvolvedor .NET | C# | FullStack |
 
 Imagine tornar uma ideia num grande potencial?
 
