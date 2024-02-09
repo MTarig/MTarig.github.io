@@ -32,7 +32,8 @@ Meu trabalho é transformar seu conhecimento em algo concreto, mas um produto ge
   | Desenvolvimento C# / SQL Server |</h2>
 
 Com meu trabalho posso transformar sua demanda em algo concreto, atravéz de programação e seu conhecimento.
-Mas para isto, poupe tempo e energia deixando todo o trabalho pesado para um profissional, que trará mais credibilidade 
+
+Mas para isto, poupe tempo e energia deixando todo o trabalho pesado para um profissional, isto trará mais credibilidade 
 para sua marca.
 
 <h3>NÃO PERCA TEMPO! ME CHAME E VAMOS IMPULSIONAR SEU NEGÓCIO!</h3>
