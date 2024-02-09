@@ -1,18 +1,18 @@
 | Desenvolvedor .NET | C# | FullStack |
 
-Imagine tornar uma ideia num grande potencial?
+Imagine tornar a sua ideia num grande potencial.
 
-Mesmo que essa ideia não esteja em pratica, somente você é possuidor 
+Mesmo que essa ideia não esteja em pratica, somente você é possuidor, 
 pois conhece seu negócio como ninguém.
 
-Mas como transforma-lo em um projeto estruturado na web.
+Veja como transforma-lo em um projeto estruturado na web.
 
 Existe uma solução que pode torna-lo real, que é...
 
 <h2>| Front-End | Transforme ideias em realidade visual | 
   Desenvolvimento web e visual / Html/CSS/JS |</h2>
 
-Meu trabalho é transformar seu conhecimento em algo concreto, mas um produto gera sucesso atravéz de sua imagem também!
+Meu trabalho é transformar seu conhecimento em algo concreto, um produto gera sucesso atravéz de sua aparência!
 
 (Tamplates de front dos sites feitos por mim)
 
@@ -33,7 +33,7 @@ Meu trabalho é transformar seu conhecimento em algo concreto, mas um produto ge
 
 Com meu trabalho posso transformar sua demanda em algo concreto, atravéz de programação e seu conhecimento.
 
-Mas para isto, poupe tempo e energia deixando todo o trabalho pesado para um profissional, isto trará mais credibilidade 
+Mas para isto, poupe tempo e energia deixando todo o trabalho pesado para um profissional, isso trará mais credibilidade 
 para sua marca.
 
 <h3>NÃO PERCA TEMPO! ME CHAME E VAMOS IMPULSIONAR SEU NEGÓCIO!</h3>
