@@ -89,14 +89,15 @@ Programador Freelancer |MAR/2022|Até agora
 
 <h2>Alguns projetos concluidos</h2>
 
-Projeto: Sistema de agendamentos PetShop
 
+Projeto: Sistema de agendamentos PetShop
 https://github.com/MTarig/petShop
 
 
-Projetos Front-End
 
+Projetos Front-End
 https://github.com/MTarig/Front-End-Projects
+
 
 (Imagens de alguns projetos front-end)
 
