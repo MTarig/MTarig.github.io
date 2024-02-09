@@ -70,7 +70,7 @@ Em minha vida pessoal, sou tranquilo, esforçado e resiliente.
 
 Em minha vida profissional, sou resiliente contra os problemas e empático aos colegas de trabalho, busco ser o melhor no que faço.
 
-Iniciei meus estudos em analise e desenvolvimento de sistemas na Universidade de Caxias do Sul no ano 2022, para complementar alguns cursos já completos por mim são:
+Iniciei meus estudos em análise e desenvolvimento de sistemas na Universidade de Caxias do Sul no ano 2022, para complementar alguns cursos já completos por mim são:
 - 2020 Curso SQL DevAprender Udemy
 - 2024 C Programming Bootcamp Udemy
 - Curso de introdução à agilidade: scrum + kanban Udemy
