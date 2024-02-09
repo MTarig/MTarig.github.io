@@ -86,11 +86,13 @@ Me dedico e me esforço para ser um profissional focado e agregar valor. Atuo co
 Estagio de desenvolvimento de software |AGO/2023|JAN/2024
 Programador Freelancer |MAR/2022|Até agora
 
+
 <h2>Alguns projetos concluidos</h2>
 
 Projeto: Sistema de agendamentos PetShop
 
 https://github.com/MTarig/petShop
+
 
 Projetos Front-End
 
