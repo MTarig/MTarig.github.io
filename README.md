@@ -62,8 +62,6 @@ para sua marca.
 
 ![image](https://github.com/MTarig/MTarig.github.io/assets/88636741/da376944-2d9b-44bd-b154-c6e0aab551a6)
 
-(Imagens do projeto de inteligencia artificial)
-(Imagens do projeto de jogos)
 
 <h2>Muito prazer, sou Maximiliano Tarigo</h2>
 
