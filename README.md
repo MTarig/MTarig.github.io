@@ -91,3 +91,16 @@ Programador Freelancer |MAR/2022|Até agora
 Projeto: Sistema de agendamentos PetShop
 
 https://github.com/MTarig/petShop
+
+Projetos Front-End
+
+https://github.com/MTarig/Front-End-Projects
+
+(Imagens de alguns projetos front-end)
+
+MusicPlayer
+![image](https://github.com/MTarig/MTarig.github.io/assets/88636741/3a98ad4f-2dd3-4cf0-8580-8a56dafe14e9)
+
+Weather-APP
+![image](https://github.com/MTarig/MTarig.github.io/assets/88636741/4001eab5-04c7-4053-8443-8bffab2e7bff)
+
